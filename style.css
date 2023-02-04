@@ -18,21 +18,8 @@ body {
     color: #ffffff;
     margin: 0 0 5px;
   }
-  
-  .page-subtitle {
-    color: #ffffff;
-    margin-top: 5px;
-  }
-  
   .page-logo {
     width: 200px;
-  }
-  
-  .alura-logo {
-    width: 40px;
-    position: absolute;
-    top: 10px;
-    right: 10px;
   }
   
   body > img {
@@ -40,6 +27,6 @@ body {
   }
   
   img {
-    max-height: 350px;
+    max-height: 300px;
   }
   
